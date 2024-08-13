@@ -1,0 +1,28 @@
+:root{
+--primaryColor:#002251;
+--seconderyColor: #A3A2AA;
+
+}
+
+
+
+.card .card-title{
+    color:var(--primaryColor) ;
+}
+.BigTitle{
+    color: var(--primaryColor);
+    font-weight: bolder;
+}
+.SmallTitle{
+    color: red;
+   padding: 20px;
+}
+img{
+    width: 100%;
+}
+.col-lg-3 .card{
+    border: none;
+}
+.card-text{
+    color: var(--seconderyColor);
+}
